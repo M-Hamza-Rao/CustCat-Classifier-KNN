@@ -1,4 +1,4 @@
-📌 Project Name: CustCat-Classifier-KNN
+# 📌 Project Name: CustCat-Classifier-KNN
 
 📊 Project Description:
 A machine learning project focused on classifying telecom customers into different categories using the K-Nearest Neighbors (KNN) algorithm. It uses a dataset called teleCust1000t.csv, which contains demographic and service-related information about customers.
